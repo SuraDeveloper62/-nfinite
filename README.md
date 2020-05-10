@@ -1,1 +1,1 @@
-# -nfinite
+# İnfinite
